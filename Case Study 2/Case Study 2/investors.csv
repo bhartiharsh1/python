@@ -1,0 +1,51 @@
+InvestorID,InvestorName,Age,State,InvestorType
+I101,Arun Kumar,35,Tamil Nadu,Retail
+I102,Priya Sharma,42,Karnataka,Retail
+I103,Infosys Ltd,45,Karnataka,Corporate
+I104,Rahul Verma,29,Maharashtra,Retail
+I105,Sneha Reddy,31,Telangana,Retail
+I106,TCS Ltd,50,Maharashtra,Corporate
+I107,Manoj Singh,38,Uttar Pradesh,Retail
+I108,Anjali Nair,27,Kerala,Retail
+I109,Wipro Ltd,48,Karnataka,Corporate
+I110,Karthik Raj,33,Tamil Nadu,Retail
+I111,Meena Iyer,40,Tamil Nadu,Retail
+I112,HCL Technologies,46,Uttar Pradesh,Corporate
+I113,Ajay Patel,36,Gujarat,Retail
+I114,Nisha Gupta,30,Delhi,Retail
+I115,Reliance Industries,52,Maharashtra,Corporate
+I116,Vikram Joshi,41,Rajasthan,Retail
+I117,Deepa Menon,34,Kerala,Retail
+I118,Larsen & Toubro,49,Maharashtra,Corporate
+I119,Rohit Yadav,28,Uttar Pradesh,Retail
+I120,Pooja Singh,39,Haryana,Retail
+I121,Tech Mahindra,47,Maharashtra,Corporate
+I122,Amit Shah,37,Gujarat,Retail
+I123,Divya Krishnan,32,Tamil Nadu,Retail
+I124,Bajaj Finance,51,Maharashtra,Corporate
+I125,Suresh Babu,44,Andhra Pradesh,Retail
+I126,Kavitha Devi,29,Telangana,Retail
+I127,ICICI Bank,53,Maharashtra,Corporate
+I128,Naveen Kumar,35,Karnataka,Retail
+I129,Swetha Rao,31,Telangana,Retail
+I130,HDFC Bank,50,Maharashtra,Corporate
+I131,Arvind Mishra,42,Uttar Pradesh,Retail
+I132,Ritu Kapoor,34,Punjab,Retail
+I133,Axis Bank,48,Maharashtra,Corporate
+I134,Sanjay Das,39,West Bengal,Retail
+I135,Neha Jain,28,Delhi,Retail
+I136,Adani Enterprises,54,Gujarat,Corporate
+I137,Mohan Reddy,45,Andhra Pradesh,Retail
+I138,Lakshmi Priya,30,Tamil Nadu,Retail
+I139,State Bank of India,55,Maharashtra,Corporate
+I140,Ganesh Kumar,33,Karnataka,Retail
+I141,Harini S,26,Tamil Nadu,Retail
+I142,Sun Pharma,49,Gujarat,Corporate
+I143,Ramesh Patel,43,Gujarat,Retail
+I144,Priyanka Sinha,36,Bihar,Retail
+I145,Asian Paints,52,Maharashtra,Corporate
+I146,Sachin Kulkarni,38,Maharashtra,Retail
+I147,Aishwarya Nair,29,Kerala,Retail
+I148,NTPC Ltd,56,Delhi,Corporate
+I149,Vivek Agarwal,41,Rajasthan,Retail
+I150,Cipla Ltd,50,Maharashtra,Corporate				

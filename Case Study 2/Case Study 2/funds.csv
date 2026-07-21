@@ -1,0 +1,51 @@
+FundID,FundName,Category,AMC
+F101,Blue Chip Growth,Equity,HDFC
+F102,Corporate Bond,Debt,ICICI
+F103,Balanced Advantage,Hybrid,SBI
+F104,Large Cap Opportunities,Equity,Kotak
+F105,Mid Cap Growth,Equity,Axis
+F106,Small Cap Discovery,Equity,Nippon India
+F107,Flexi Cap Wealth,Equity,Mirae Asset
+F108,Value Discovery,Equity,Aditya Birla Sun Life
+F109,Focused Equity,Equity,UTI
+F110,Dividend Yield,Equity,Tata
+F111,Dynamic Bond,Debt,HDFC
+F112,Short Duration Bond,Debt,ICICI
+F113,Liquid Fund,Debt,SBI
+F114,Ultra Short Term,Debt,Kotak
+F115,Gilt Fund,Debt,Axis
+F116,Credit Risk Fund,Debt,Nippon India
+F117,Banking & PSU Debt,Debt,Franklin Templeton
+F118,Corporate Income Fund,Debt,DSP
+F119,Money Market Fund,Debt,Edelweiss
+F120,Floating Rate Fund,Debt,Motilal Oswal
+F121,Aggressive Hybrid,Hybrid,HDFC
+F122,Conservative Hybrid,Hybrid,ICICI
+F123,Equity Savings,Hybrid,SBI
+F124,Multi Asset Allocation,Hybrid,Kotak
+F125,Balanced Hybrid,Hybrid,Axis
+F126,Dynamic Asset Allocation,Hybrid,Nippon India
+F127,Arbitrage Fund,Hybrid,DSP
+F128,Children's Gift Fund,Hybrid,UTI
+F129,Retirement Savings,Hybrid,Tata
+F130,Monthly Income Plan,Hybrid,Aditya Birla Sun Life
+F131,Technology Fund,Sectoral,Mirae Asset
+F132,Banking Fund,Sectoral,HDFC
+F133,Pharma Fund,Sectoral,ICICI
+F134,Healthcare Fund,Sectoral,SBI
+F135,Infrastructure Fund,Sectoral,Kotak
+F136,Consumption Fund,Sectoral,Axis
+F137,Energy Fund,Sectoral,Nippon India
+F138,PSU Fund,Sectoral,DSP
+F139,Manufacturing Fund,Sectoral,Franklin Templeton
+F140,Real Estate Fund,Sectoral,Edelweiss
+F141,Gold ETF,ETF,Motilal Oswal
+F142,Nifty 50 ETF,ETF,HDFC
+F143,Sensex ETF,ETF,ICICI
+F144,Bank ETF,ETF,SBI
+F145,Next 50 ETF,ETF,Kotak
+F146,International Equity,International,Axis
+F147,US Bluechip Fund,International,Mirae Asset
+F148,Global Opportunities,International,Franklin Templeton
+F149,Emerging Markets,International,Edelweiss
+F150,World Index Fund,International,Motilal Oswal			

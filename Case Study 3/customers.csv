@@ -1,0 +1,26 @@
+CustomerID,CustomerName,Age,Gender,PAN,Aadhaar,Salary,City,State
+C101,Aarav Sharma,32,Male,ABCDE1234F,567812341234,65000,Chennai,Tamil Nadu
+C102,Priya Nair,29,Female,FGHIJ2345K,567812341235,72000,Bengaluru,Karnataka
+C103,Rahul Verma,41,Male,KLMNO3456L,567812341236,85000,Hyderabad,Telangana
+C104,Neha Gupta,36,Female,PQRST4567M,567812341237,91000,Mumbai,Maharashtra
+C105,Vikram Singh,45,Male,UVWXY5678N,567812341238,120000,Delhi,Delhi
+C106,Anjali Reddy,27,Female,ZABCD6789P,567812341239,58000,Hyderabad,Telangana
+C107,Karthik Raj,38,Male,EFGHI7890Q,567812341240,98000,Chennai,Tamil Nadu
+C108,Sneha Patil,31,Female,JKLMN8901R,567812341241,76000,Pune,Maharashtra
+C109,Arjun Kumar,42,Male,OPQRS9012S,567812341242,110000,Bengaluru,Karnataka
+C110,Meera Joshi,34,Female,TUVWX0123T,567812341243,68000,Ahmedabad,Gujarat
+C111,Rohan Das,30,Male,YZABC1234U,567812341244,70000,Kolkata,West Bengal
+C112,Kavya Iyer,28,Female,BCDEF2345V,567812341245,62000,Chennai,Tamil Nadu
+C113,Manoj Patel,50,Male,CDEFG3456W,567812341246,135000,Surat,Gujarat
+C114,Divya Menon,33,Female,DEFGH4567X,567812341247,87000,Kochi,Kerala
+C115,Suresh Rao,47,Male,EFGHI5678Y,567812341248,102000,Vijayawada,Andhra Pradesh
+C116,Pooja Sharma,26,Female,FGHIJ6789Z,567812341249,54000,Jaipur,Rajasthan
+C117,Ajay Mishra,39,Male,GHIJK7890A,567812341250,96000,Lucknow,Uttar Pradesh
+C118,Nisha Kapoor,35,Female,HIJKL8901B,567812341251,81000,Delhi,Delhi
+C119,Deepak Yadav,43,Male,IJKLM9012C,567812341252,115000,Noida,Uttar Pradesh
+C120,Ritika Sen,24,Female,JKLMN0123D,567812341253,50000,Bhubaneswar,Odisha
+C121,Harish Kumar,37,Male,KLMNO1234E,567812341254,89000,Coimbatore,Tamil Nadu
+C122,Aishwarya Rao,30,Female,LMNOP2345F,567812341255,73000,Mysuru,Karnataka
+C123,Naveen Babu,44,Male,MNOPQ3456G,567812341256,108000,Visakhapatnam,Andhra Pradesh
+C124,Lakshmi Devi,40,Female,NOPQR4567H,567812341257,95000,Madurai,Tamil Nadu
+C125,Sanjay Mehta,48,Male,OPQRS5678J,567812341258,125000,Indore,Madhya Pradesh
