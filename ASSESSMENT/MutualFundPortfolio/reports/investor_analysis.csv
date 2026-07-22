@@ -1,0 +1,11 @@
+InvestorID,InvestorName,City,AnnualIncome,RiskProfile,TotalInvestment,NetInvested,TransactionCount,CurrentValue,ProfitLoss
+INV001,Aarav Sharma,Chennai,850000,Moderate,15176.8,15176.8,5,15408.2,231.4
+INV002,Priya Nair,Bangalore,1200000,Low,13733.15,13733.15,5,13973.3,240.15
+INV003,Rahul Verma,Hyderabad,1500000,High,13309.2,13309.2,5,13490.9,181.7
+INV004,Neha Gupta,Pune,650000,Moderate,16783.75,16783.75,5,17041.35,257.6
+INV005,Karthik Raj,Chennai,980000,Low,10744.8,10744.8,5,10905.4,160.6
+INV006,Ananya Iyer,Coimbatore,720000,Moderate,17193.0,17193.0,5,17389.6,196.6
+INV007,Vikram Singh,Delhi,2100000,High,14861.75,14861.75,5,15065.9,204.15
+INV008,Meera Krishnan,Kochi,1450000,Moderate,11242.3,11242.3,5,11397.55,155.25
+INV009,Arjun Reddy,Hyderabad,550000,High,12240.55,12240.55,4,12461.1,220.55
+INV010,Sneha Kapoor,Mumbai,1300000,Low,14051.8,14051.8,5,14200.5,148.7

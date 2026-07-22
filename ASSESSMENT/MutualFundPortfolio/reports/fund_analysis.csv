@@ -1,0 +1,6 @@
+FundID,FundName,Category,ExpenseRatio,TotalInvestment,NetInvested,InvestorCount,TransactionCount,CurrentValue,ReturnPct,AUM
+F101,Alpha Growth Fund,Equity,1.2,23486.6,23486.6,10,10,23832.9,2.94,23832.9
+F102,Bluechip Equity Fund,Equity,1.1,23591.4,23591.4,10,10,24056.0,3.47,24056.0
+F103,Balanced Advantage Fund,Hybrid,0.95,30186.0,30186.0,9,9,30565.5,2.26,30565.5
+F104,Corporate Bond Fund,Debt,0.65,19704.95,19704.95,10,10,20056.8,3.4,20056.8
+F105,Small Cap Opportunities,Equity,1.45,42368.15,42368.15,10,10,42822.6,2.19,42822.6

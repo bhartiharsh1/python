@@ -1,0 +1,51 @@
+FundID,FundName,Category,FundManager,ExpenseRatio,Benchmark
+F101,Alpha Growth Fund,Equity,Rajesh Kumar,1.20,Nifty 50
+F102,Bluechip Equity Fund,Equity,Priya Sharma,1.10,Sensex
+F103,Balanced Advantage Fund,Hybrid,Amit Verma,0.95,Nifty 50 Hybrid
+F104,Corporate Bond Fund,Debt,Neha Gupta,0.65,CRISIL Bond Index
+F105,Small Cap Opportunities,Equity,Rohit Menon,1.45,Nifty Smallcap 250
+F106,Mid Cap Growth Fund,Equity,Sneha Iyer,1.35,Nifty Midcap 150
+F107,Liquid Cash Fund,Liquid,Arun Nair,0.30,NIFTY Liquid Index
+F108,Ultra Short Duration Fund,Debt,Meera Joshi,0.45,CRISIL Short Term Bond
+F109,Tax Saver ELSS,ELSS,Suresh Reddy,1.50,Nifty 500
+F110,Dividend Yield Fund,Equity,Kavita Rao,1.10,Nifty Dividend Opportunities
+F111,Value Discovery Fund,Equity,Ajay Singh,1.25,Nifty Value 20
+F112,Flexi Cap Fund,Equity,Deepa Menon,1.15,Nifty 500
+F113,Focused Equity Fund,Equity,Vikram Patel,1.30,Nifty 100
+F114,Infrastructure Fund,Sectoral,Ramesh Iyer,1.55,Nifty Infrastructure
+F115,Banking & PSU Fund,Sectoral,Anita Kapoor,1.40,Nifty Bank
+F116,Healthcare Fund,Sectoral,Rahul Bhatia,1.60,Nifty Pharma
+F117,Technology Fund,Sectoral,Pooja Nair,1.70,Nifty IT
+F118,Consumption Fund,Sectoral,Manoj Jain,1.35,Nifty FMCG
+F119,International Equity Fund,International,Anil Gupta,1.80,MSCI World
+F120,Global Opportunities Fund,International,Shweta Rao,1.85,S&P Global 100
+F121,Gold ETF,ETF,Ravi Kumar,0.45,Gold Price Index
+F122,Nifty 50 ETF,ETF,Sunil Sharma,0.20,Nifty 50
+F123,Sensex ETF,ETF,Divya Menon,0.18,Sensex
+F124,Balanced Hybrid Fund,Hybrid,Mohan Das,1.00,CRISIL Hybrid Index
+F125,Aggressive Hybrid Fund,Hybrid,Preethi Raj,1.10,Nifty Hybrid Composite
+F126,Conservative Hybrid Fund,Hybrid,Harish Nair,0.85,CRISIL Conservative Hybrid
+F127,Children Education Fund,Solution,Ritu Sharma,1.15,Nifty 500
+F128,Retirement Savings Fund,Solution,Anand Verma,1.05,Nifty 50
+F129,Dynamic Bond Fund,Debt,Geetha Nair,0.70,CRISIL Dynamic Bond
+F130,Gilt Fund,Debt,Naveen Kumar,0.60,CRISIL Gilt Index
+F131,Credit Risk Fund,Debt,Sanjay Rao,0.95,CRISIL Credit Risk
+F132,Floating Rate Fund,Debt,Asha Menon,0.55,CRISIL Floating Rate
+F133,Money Market Fund,Liquid,Rakesh Gupta,0.28,NIFTY Money Market
+F134,Overnight Fund,Liquid,Seema Reddy,0.15,NIFTY Overnight Index
+F135,Arbitrage Fund,Hybrid,Kiran Patel,0.80,Nifty Arbitrage Index
+F136,Multi Asset Fund,Hybrid,Deepak Sharma,1.20,Nifty Multi Asset
+F137,ESG Leaders Fund,Equity,Nidhi Kapoor,1.40,Nifty100 ESG
+F138,Sustainable Future Fund,Equity,Alok Verma,1.38,Nifty ESG Enhanced
+F139,Large & Mid Cap Fund,Equity,Varun Menon,1.25,Nifty LargeMidcap 250
+F140,Index Fund Nifty 50,Index,Richa Gupta,0.25,Nifty 50
+F141,Index Fund Sensex,Index,Akash Jain,0.22,Sensex
+F142,Quant Strategy Fund,Equity,Pallavi Rao,1.50,Nifty 500
+F143,Emerging Businesses Fund,Equity,Vivek Sharma,1.45,Nifty MidSmallcap 400
+F144,Manufacturing Fund,Sectoral,Swathi Menon,1.55,Nifty India Manufacturing
+F145,Energy Opportunities Fund,Sectoral,Prakash Iyer,1.48,Nifty Energy
+F146,Real Estate Fund,Sectoral,Sarika Nair,1.60,Nifty Realty
+F147,Agriculture & Rural Fund,Sectoral,Hemant Verma,1.42,Nifty Commodities
+F148,Innovation Fund,Equity,Krishna Patel,1.58,Nasdaq 100
+F149,Digital India Fund,Sectoral,Monica Gupta,1.52,Nifty India Digital
+F150,Emerging Markets Fund,International,Siddharth Rao,1.88,MSCI Emerging Markets

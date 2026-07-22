@@ -1,0 +1,20 @@
+Section,Metric,Value
+Portfolio Metric,Total Portfolio Value,141333.8
+Portfolio Metric,Total Invested,139337.1
+Portfolio Metric,Absolute Return,1996.7
+Portfolio Metric,Portfolio Return %,1.43
+Portfolio Metric,Annualized Return %,209.87
+Portfolio Metric,CAGR %,209.87
+Portfolio Metric,Diversification Score,78.35
+Portfolio Metric,Average Holding Period (days),4.59
+Portfolio Metric,Expense Ratio Impact,1570.53
+Portfolio Metric,Sharpe Ratio,18.2589
+Portfolio Metric,90th Percentile Fund Returns,3.4385
+Portfolio Metric,95th Percentile Fund Returns,3.4526
+Portfolio Metric,Average Daily NAV,35.12
+Portfolio Metric,"Corr(Income, Investment)",-0.1919
+Portfolio Metric,"Corr(Income, Avg NAV)",0.427
+Portfolio Metric,"Corr(Investment, Avg NAV)",0.2758
+Category Investment %,Equity,64.19
+Category Investment %,Hybrid,21.66
+Category Investment %,Debt,14.14
